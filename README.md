@@ -1,4 +1,4 @@
-1. //created by 21343022_Ella Dwipujana Asyani
+1. // Created by 21343022_Ella Dwipujana Asyani
 2. AritmatikaDemo.java merupakan file latihan 1, menampilkan operator aritmatika
 3. RelasiDemo.java merupakan file latihan 2, menampilkan penggunaan operator relasi
 4. TestAND.java merupakan file latihan 3, menampilkan penggunaan operator logika dan Boolean AND
